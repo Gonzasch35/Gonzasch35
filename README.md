@@ -13,7 +13,7 @@ Soy un **Programador** **`Fullstack`**
 
 ## **¿Que tecnologías uso?**
 
-- HTML
+-  <img src="[https://cdn-icons-png.flaticon.com/512/919/919827.png](https://cdn-icons-png.flaticon.com/512/174/174854.png)" alt="express" width="40" height="40"/>
 - CSS
 - JavaScript
 - React.js
