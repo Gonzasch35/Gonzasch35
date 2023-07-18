@@ -24,9 +24,9 @@ Soy un **Programador** **`Fullstack`**
 
 ## **Contacto**
 
-[**Linkedin**]((https://www.linkedin.com/in/gonzalo-schmidt-240903250/))
+[**Linkedin**](https://www.linkedin.com/in/gonzalo-schmidt-240903250/)
 
-Correo: _"gonza.sch35@gmail.com"_
+Correo: _gonza.sch35@gmail.com_
 <!--
 **Gonzasch35/Gonzasch35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
